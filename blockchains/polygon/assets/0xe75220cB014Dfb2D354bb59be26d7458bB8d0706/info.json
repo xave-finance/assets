@@ -1,0 +1,12 @@
+{
+  "name": "PHT Stablecoin",
+  "website": "https://www.apacx.io/",
+  "description": "PHT provides a safe, transparent and scalable stable currency solution based on MakerDAO's excess mortgage model",
+  "socials": [],
+  "explorer": "https://polygonscan.com/token/0xe75220cB014Dfb2D354bb59be26d7458bB8d0706",
+  "type": "ERC20",
+  "symbol": "PHT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe75220cB014Dfb2D354bb59be26d7458bB8d0706"
+}
